@@ -1,0 +1,22 @@
+{
+  "name": "chroma",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lucaswadedavis/chroma",
+  "authors": [
+    "Luke Davis <luke@peopleofthebit.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.1",
+    "angular": "~1.4.1"
+  }
+}
